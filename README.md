@@ -9,4 +9,4 @@ Dependencies: Erlang, Google Cloud Account for using cloud services, Google clou
 
 File path has to be changed where ever needed before using.
 
-For PART - 2 of this project chek repository project_gv2
+For PART - 2 of this project check repository project_gv2
